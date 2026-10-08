@@ -1,7 +1,8 @@
 ## Oi 👋, eu sou o Gabriel Ferraz
 🐍📊**Programador estudante de Python e Análise | Engenharia de dados**
 
-Criei esse perfil para mostrar as experiências que estou tendo com programação através de projetos envolvendo Python e a área de dados. Para fazer esses projetos eu uso o conhecimento adquirido no curso de Python Fullstack na Mate Academy, além de outros conteúdos que eu aprendi pelo YouTube como HashTag Programação e etc.
+Criei esse perfil para mostrar as experiências que estou tendo com programação através de projetos envolvendo Python e a área de dados. Para fazer esses projetos eu uso o conhecimento adquirido no curso de Python Fullstack na Mate Academy, além de outros conteúdos que eu aprendi pelo YouTube como HashTag Programação, entre outros.
+
 ## As Ferramentas que sei usar são:
 * ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 * ![PyCharm](https://img.shields.io/badge/pycharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
